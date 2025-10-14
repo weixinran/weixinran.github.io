@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Affiliations：Zhongguancun Academy. Email：weixinran@zgci.ac.cn
 
 profile:
   align: right
